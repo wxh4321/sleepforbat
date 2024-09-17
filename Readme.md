@@ -11,3 +11,6 @@ npm install sleepforbat -g
 sleepforbat 1000 // 1秒后执行
 sleepforbat 10000 C:\Users\***\Desktop\脚本\***.bat // 10秒后执行bat文件
 ```
+
+### git
+https://github.com/wxh4321/sleepforbat
